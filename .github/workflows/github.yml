@@ -3,7 +3,7 @@ name: Deploy react.js to surge
 on:
   push:
     branches:
-    - master
+    - main
 
 jobs:
   build:
